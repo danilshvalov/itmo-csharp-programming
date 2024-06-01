@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixOperations", "MatrixOperations\MatrixOperations.csproj", "{35958B1D-21E3-4651-AE6D-46E531EBD0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35958B1D-21E3-4651-AE6D-46E531EBD0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35958B1D-21E3-4651-AE6D-46E531EBD0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35958B1D-21E3-4651-AE6D-46E531EBD0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35958B1D-21E3-4651-AE6D-46E531EBD0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B0B786-3E91-4E0A-A969-8D9E5E05B259}
+	EndGlobalSection
+EndGlobal

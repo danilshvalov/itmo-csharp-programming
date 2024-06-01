@@ -1,0 +1,10 @@
+Лабораторная*.pdf
+*.log
+*.fdb_latexmk
+*.out
+*.fls
+*.aux
+obj/
+bin/
+.vs/
+.DS_Store
